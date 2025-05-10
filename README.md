@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vaishnavi</h1>
+<h1 align="center">Hi! I'm Vaishnavi</h1>
 <p align="center">
-  Computer Science + Industrial Design @ Georgia Tech | ML Researcher | Frontend Dev | F1Tenth Enthusiast
+  I'm a 2nd year undergraduate student majoring in Computer Science and Industrial Design at Georgia Tech!
 </p>
 
 ---
