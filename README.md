@@ -16,9 +16,10 @@ public class Vaishnavi {
 ```
 
 ### 🔮 What Am I Doing Currently?
-🏁 Researching F1 car perception algorithms @ Georgia Tech
-🛠 Building Sonder.ai – an AI-native platform to help provide an alternate to therapy 
-✨ Designing with Framer and Figma
+🏁 Researching F1 car perception algorithms @ Georgia Tech  <br>
+🛠 Building Sonder.ai – an AI-native platform to help provide an alternate to therapy  <br>
+✨ Designing with Framer and Figma  <br>
 🧠 Incoming Summer Technical Product Manager @ Accenture
+
 
 
