@@ -13,3 +13,11 @@ public class Vaishnavi {
     public String[] interests = { "AI", "Human-Computer Interaction", "Startups", "Product Design" };
     public String[] hobbies = { "Crochet", "Design", "Video Essays", "Football" };
 }
+
+🚀 What Am I Doing Currently?
+
+🏁 Researching F1 car perception algorithms @ Georgia Tech
+🛠 Building Sonder.ai – an AI-native platform to help provide an alternate to therapy 
+✨ Designing with Framer and Figma
+🧠 Incoming Summer Technical Product Manager @ Accenture
+
