@@ -5,16 +5,6 @@
 
 ---
 
-### 🛸 About Me
-```java
-public class Vaishnavi {
-    private int age = 20;
-    public String[] languages = { "Java", "Python", "C++", "Swift", "TypeScript" };
-    public String[] interests = { "AI", "Human-Computer Interaction", "Startups", "Product Design" };
-    public String[] hobbies = { "Cooking", "Design", "Video Essays", "Reading" };
-}
-```
-
 ### 🔮 What Am I Doing Currently?
 🛠 Building Sonder.ai – an AI-native platform to help provide an alternate to therapy  <br>
 ✨ Working on a Stealth Startup with friends  <br>
