@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>
 <p>
-  I'm Vaishnavi (VHY-sh-nuh-vee) a 2nd year undergraduate student majoring in Computer Science (Concentration: Intelligence and Human-Computer Interaction) and minoring in Industrial Design at Georgia Tech! I'm super into developing human-centered products that positively impact lives. Apart from tech, I LOVE taking pictures with my digital camera, trying all kinds of foods (I do a monthly food dump on my Instagram) and making video essays! 
+  I'm Vaishnavi (VHY-sh-nuh-vee) a 2nd year undergraduate student majoring in Computer Science (Concentration: Intelligence and Human-Computer Interaction) at Georgia Tech! I'm super into developing human-centered products that positively impact lives. Apart from tech, I LOVE taking pictures with my digital camera, trying all kinds of foods (I do a monthly food dump on my Instagram) and making video essays! 
 </p>
 
 ---
