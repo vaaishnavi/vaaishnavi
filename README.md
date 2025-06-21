@@ -6,7 +6,6 @@
 ---
 
 ### 🔮 What Am I Doing Currently?
-🛠 Building Sonder.ai – an AI-native platform to help provide an alternate to therapy  <br>
 ✨ Working on a Stealth Startup with friends  <br>
 🧠 Incoming Summer Technical Product Manager @ Accenture
 
