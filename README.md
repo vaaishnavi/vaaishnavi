@@ -1,13 +1,13 @@
 <h1>Hi there 👋</h1>
 <p>
-  I'm Vaishnavi (VHY-sh-nuh-vee) a 2nd year undergraduate student majoring in Computer Science (Concentration: Intelligence and Human-Computer Interaction) at Georgia Tech! I'm super into developing human-centered products that positively impact lives. Apart from tech, I LOVE taking pictures with my digital camera, trying all kinds of foods (I do a monthly food dump on my Instagram) and making video essays! 
+  I'm Vaishnavi (VHY-sh-nuh-vee) a 3rd year undergraduate student majoring in Computer Science (Concentration: Intelligence and Human-Computer Interaction) at Georgia Tech! I'm super into developing human-centered products that positively impact lives. Apart from tech, I LOVE taking pictures with my digital camera, trying all kinds of foods (I do a monthly food dump on my Instagram) and making video essays! 
 </p>
 
 ---
 
 ### 🔮 What Am I Doing Currently?
-✨ Working on a Stealth Startup with friends  <br>
-🧠 Incoming Summer Technical Product Manager @ Accenture
+✨ Working on a Stealth Startup <br>
+🧠 Interning @ Tesla on the Vehicle Software team
 
 ---
 
