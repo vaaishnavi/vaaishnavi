@@ -12,8 +12,8 @@
 
 
 ### 🔮 What I Have Done in the Past?
-🧠 SWE Intern @ Tesla on the Vehicle Software team
-🦷 TPM Intern @ Accenture 
+🧠 SWE Intern @ Tesla on the Vehicle Software team <br>
+🦷 TPM Intern @ Accenture <br>
 🤖 SWE Intern @ Microsoft
 
 
